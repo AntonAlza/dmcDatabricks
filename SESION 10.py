@@ -37,3 +37,7 @@ sql_categories = (spark.read.format("jdbc").option("driver",driver).option("url"
 # COMMAND ----------
 
 sql_categories.show()
+
+# COMMAND ----------
+
+# Grupo creado desde Github
